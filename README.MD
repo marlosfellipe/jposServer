@@ -67,3 +67,7 @@ ___
 1. Criar uma interface visual simulando um terminal, usando java swing.
 2. Implementação de criptografia para segurança (PIN Blocks, MACs).
 3. Criar uma interface visual simulando um terminal.
+___
+
+## 🤷🏻‍♂️ **Autor:** ***Marlos Fellipe***
+
