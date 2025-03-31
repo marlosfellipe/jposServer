@@ -23,7 +23,7 @@ As dependências estão definidas no arquivo pom.xml para facilitar o processo d
 ---
 ## 🛠️ Estrutura do Projeto
 A estrutura do projeto é a seguinte:
-![alt text](image.png)
+![alt text](Estrutura.jpeg)
 ---
 ## ✅ Rodando
 1. Clone o repositório:
